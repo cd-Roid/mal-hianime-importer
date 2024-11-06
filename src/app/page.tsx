@@ -2,8 +2,8 @@
 
 export default function Home() {
   return (
-    <div>
-      Deine Mutter war hier
+    <div className="text=primary">
+      Deine Mutter war hier.
     </div>
   );
 }
